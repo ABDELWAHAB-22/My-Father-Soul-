@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+}
+h3{
+    color:chocolate;
+    font-weight: 600;
+    font-family: tahoma;
+    font-size: 22px;
+}
+span,p{
+    color: #fff;
+    font-family: tahoma;
+    font-size: 20px;
+}
